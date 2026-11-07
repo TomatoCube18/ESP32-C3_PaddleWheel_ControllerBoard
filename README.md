@@ -4,7 +4,7 @@
 
 The TomatoCube ESP32-C3 PaddleWheel Controller Board is built around Espressif's ESP32-C3-MINI-1 module with built-in PCB antenna for Wi-Fi and Bluetooth LE. A 9V battery step-down supply with MOSFET power switching suits battery-operated projects. Onboard peripherals include a speaker, level-shifted NeoPixels and servo outputs, and an I2C OLED display, with Grove and Qwiic connectors for external I2C devices. Spare GPIO pins are broken out for further expansion.
 
-<img src="Images/TomatoCube ESP32-C3 PaddleWheel Controller Board.png" width="700" height="auto"/>
+<img src="images/TomatoCube ESP32-C3 PaddleWheel Controller Board.png" width="700" height="auto"/>
 
 
 
