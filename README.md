@@ -34,4 +34,4 @@ Open the loader:
 4. Wait for the progress bar to reach 100%.
 5. Press the Reset button (or unplug and replug) to start the new firmware.
 
-<img src="Images/board.jpg" width="400" height="auto"/>
+<img src="images/board.jpg" width="400" height="auto"/>
